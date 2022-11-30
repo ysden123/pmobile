@@ -1,0 +1,3 @@
+= YSBasicActivity
+
+Simple start project. Implementation on Kotlin.
